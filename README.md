@@ -26,3 +26,5 @@ Update the **Members** tab.
 - To include photos, upload image files to `content/members/` folder and reference the correct file names in `content/members/_index.md`.
 - Update `README.md` file.
 - To change the profile photo on the homepage, upload the image to the `static/` directory and update the `imageUrl` field in the `hugo.yaml` file.
+
+Hi
