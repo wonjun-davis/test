@@ -1,4 +1,4 @@
-baseURL: https://ucd-cosmos-data.github.io/demo/
+baseURL: https://wonjun-davis.github.io/test/
 locale: en-us
 title: "Machine Hater"
 theme: ["PaperMod"]
@@ -11,13 +11,13 @@ params:
     favicon: bonsai.jpeg #the small icon shown in the browser tab
   socialIcons:
     - name: github
-      url: "https://github.com/ucd-cosmos-data/demo"
+      url: "https://github.com/wonjun-davis/test"
   math: True
   profileMode:
     enabled: true
     title: "Machine Hater"
     subtitle: "My two least favorite words: Machine and Learning."
-    imageUrl: "/demo/bonsai.jpeg"
+    imageUrl: "/test/bonsai.jpeg"
     imageWidth: 300
     imageHeight: 300
 
