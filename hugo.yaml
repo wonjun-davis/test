@@ -42,6 +42,10 @@ menu:
     - identifier: course-site
       name: Course Website
       url: https://ucd-cosmos-data.github.io/
+    - identifier: Test
+      name: Test
+      url: /test/
+      weight: 5
 
 markup:
   goldmark:
